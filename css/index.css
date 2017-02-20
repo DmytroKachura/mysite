@@ -7,7 +7,7 @@ li {
     float: right;
      border-right: 2px solid #bbb;
 }
-a {
+li {
     display: block;
     padding: 7px;
     background-color: #dddddd;
