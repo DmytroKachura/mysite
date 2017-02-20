@@ -12,5 +12,8 @@ li {
     padding: 7px;
     background-color: #dddddd;
 }
-
+img {
+    display: block;
+    margin: auto;
+}
 
