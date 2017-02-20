@@ -1,5 +1,7 @@
 ul {
     list-style-type: none;
+    overflow: hidden; 
+    background-color: #dddddd;
 }
 li {
     float: right;
@@ -10,6 +12,5 @@ a {
     padding: 7px;
     background-color: #dddddd;
 }
-
 
 
